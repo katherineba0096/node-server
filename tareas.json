@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Tarea": "Revisar plataforma Ada",
+        "estado":"terminada"
+
+    },
+    {
+        "id": 2,
+        "Tarea": "terminar laboratorios",
+        "estado":"terminada"
+
+    },
+    {
+        "id": 3,
+        "Tarea": "repasar los videos de la plataforma",
+        "estado":"pendiente"
+
+    }
+
+]
+
